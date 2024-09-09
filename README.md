@@ -1,7 +1,7 @@
-# Llama 3.1 + Unsloth 2x Faster Finetuning
+# Llama 3.1 Chatbot+ Unsloth 2x Faster Finetuning
 
 ## Overview
-This Jupyter notebook (`Llama_3_1_8b_+_Unsloth_2x_faster_finetuning.ipynb`) details the implementation and experimentation of fine-tuning the Llama 3.1 model using the Unsloth method for a 2x speed improvement. The notebook includes all steps, from data preprocessing to model evaluation, along with commentary on the results and optimization techniques.
+This Jupyter notebook (`Llama_3_1_8b_+_Unsloth_2x_faster_finetuning.ipynb`) details the implementation and experimentation of fine-tuning the Llama 3.1 chatbot for medical use   using the Unsloth method for a 2x speed improvement. The notebook includes all steps, from data preprocessing to model evaluation, along with commentary on the results and optimization techniques.
 
 ## Key Features
 - **Model**: Llama 3.1 with 8 billion parameters.
